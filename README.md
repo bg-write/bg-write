@@ -3,7 +3,7 @@
 
 ## New York Magazine, Pitchfork, Rolling Stone * JavaScript, Python, React
 
-### Mission: To offer my 10+ years of proven problem-solving through words and code to make art and information more accessible.
+### I’m a music journalist and software engineer who’s been writing and coding for 10+ years. I love to build things. In everything I do – in the arts, tech, or a combination of both – I strive for clarity and accessibility. Simple is not the enemy.
 
 - 🔭 Just launched: [What Time Should I Write?](https://github.com/bg-write/what-time-should-i-write)
 - 🌱 Currently building: [Big D'oh: Homer Reads 'Cracking the Coding Interview'](https://github.com/bg-write/big-doh)
