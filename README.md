@@ -11,4 +11,11 @@
 - 🥅 2021 Goal: Contribute to at least 2 new open-source projects. (Need any fresh eyes on your project?)
 - ⚡ Fun fact: I've yet to beat LeBron James in 1-on-1 basketball. (One day ...)
 
+<hr/>
+
 [![Brady Gerber's GitHub stats](https://github-readme-stats.vercel.app/api?username=bg-write&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bg-write&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
