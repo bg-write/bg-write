@@ -9,7 +9,8 @@
 - 🌱 Currently building: [Big D'oh: Homer Reads 'Cracking the Coding Interview'](https://github.com/bg-write/big-doh)
 - 👯 Looking for: Other software engineers who work in the music industry or with music tech. (What are y'all listening to?)
 - 🥅 2021 Goal: Contribute to at least 2 new open-source projects. (Need any fresh eyes on your project?)
-- ⚡ Fun fact: I've yet to beat LeBron James in 1-on-1 basketball. (One day ...)
+- ⚡ Fun fact: I've yet to beat LeBron James in 1-on-1 basketball. (One day.)
+- 💬 GitHub Stats and Most Used Languages cards designed by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).
 
 <br/>
 
