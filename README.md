@@ -5,11 +5,11 @@
 
 ### I’m a music journalist and software engineer who’s been writing and coding for 10+ years. I love to build things. In everything I do – in the arts, tech, or a combination of both – I strive for clarity and accessibility, and turn information and facts into storytelling.
 
-- 🔭 Just launched: [What Time Should I Write?](https://github.com/bg-write/what-time-should-i-write)
-- 🌱 Currently building: [Big D'oh: Homer Reads 'Cracking the Coding Interview'](https://github.com/bg-write/big-doh)
+- 🔭 Just launched: [Big D'oh: Homer Reads 'Cracking the Coding Interview'](https://github.com/bg-write/big-doh)
+- 🌱 Currently building: A new music-related Python project (repo coming soon).
 - 👯 Looking for: Other software engineers who work in the music industry or with music tech. (What are y'all listening to?)
 - 🥅 2021 Goal: Contribute to at least 2 new open-source projects. (Need any fresh eyes on your project?)
-- ⚡ Fun fact: I've yet to beat LeBron James in 1-on-1 basketball. (One day.)
+- ⚡ What's grabbing my attention: The art and science of making the Internet more accessible.
 - 💬 GitHub Stats and Most Used Languages cards designed by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).
 
 <br/>
