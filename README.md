@@ -7,7 +7,7 @@
 
 - 🔭 Just launched: [Big D'oh: Homer Reads 'Cracking the Coding Interview'](https://github.com/bg-write/big-doh)
 - 🌱 Currently building: A new music-related Python project (repo coming soon).
-- 👯 Looking for: Other software engineers who work in the music industry or with music tech. (What are y'all listening to?)
+- 👯 Looking for: Other software engineers who work in music or media, or with music tech. (What are y'all listening to?)
 - 🥅 2021 Goal: Contribute to at least 2 new open-source projects. (Need any fresh eyes on your project?)
 - ⚡ What's grabbing my attention: The art and science of making the Internet more accessible.
 - 💬 GitHub Stats and Most Used Languages cards designed by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).
