@@ -3,11 +3,11 @@
 
 ## New York Magazine, Pitchfork, Rolling Stone * JavaScript, Python, React
 
-### I’m a music journalist and software engineer. I love to build things. In everything I do – in the arts, tech, or a combination of both – I strive for clarity and accessibility, and turn information and facts into storytelling.
+### I’m a music journalist and software engineer. I love to build things. In everything I do – in the arts, tech, or a combination of both – I strive for clarity and accessibility, and to turn information and facts into storytelling.
 
 - 🔭 Just launched: [Big D'oh: Homer Reads 'Cracking the Coding Interview'](https://github.com/bg-write/big-doh)
 - 🌱 Currently building: A new music-related Python project (repo coming soon).
-- 👯 Looking for: Other software engineers who work in music or media, or with music tech. (What are y'all listening to?)
+- 👯 Looking for: Other software engineers who work in music. (What are y'all listening to?)
 - 🥅 2021 Goal: Contribute to at least 2 new open-source projects. (Need any fresh eyes on your project?) UPDATE: Goal completed! Still seeking to contribute to more open-source projects.
 - ⚡ What's grabbing my attention: The art and science of making the Internet more accessible.
 - 💬 GitHub Stats and Most Used Languages cards designed by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).
