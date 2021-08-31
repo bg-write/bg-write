@@ -1,7 +1,7 @@
 
 # BRADY GERBER: [Music, Writing, Full-Stack Software Engineering](https://bradygerber.com/) 👋
 
-## New York Magazine, Pitchfork, Rolling Stone * JavaScript, Python, React
+## New York Magazine, Pitchfork, Rolling Stone * JavaScript, React.js, Node.js, Python
 
 ### I’m a music journalist and software engineer. I love to build things. In everything I do – in the arts, tech, or a combination of both – I strive for clarity and accessibility, and to turn information and facts into storytelling.
 
