@@ -1,9 +1,7 @@
 
-# BRADY GERBER: [Music, Writing, Full-Stack Software Engineering](https://bradygerber.com/) 👋
+# BRADY GERBER: Frontend, Accessibility, Music & Writing 👋
 
-## New York Magazine, Pitchfork, SPIN, Rolling Stone * JavaScript, React.js, Node.js, Python
-
-### I’m a writer who codes - a software engineer and music journalist. In everything I do, in the arts, tech, or the combination of both, I strive for clarity and accessibility, to turn information into storytelling. Let's build something.
+## I’m a writer who codes: a full-stack software engineer (JavaScript, React, Python) and music journalist (New York Magazine, Pitchfork, Rolling Stone). In everything I do, in the arts, tech, or the combination of both, I strive for clarity and to turn information into storytelling. Let's build something.
 
 - 🔭 Recently launched: [A digital newspaper sharing the best music news and longform writing built with Python, Flask, and Beautiful Soup](https://github.com/bg-write/candyfloss-flask)
 - 🌱 Currently building: a new music blogging platform built with TypeScript, Gatsby, and Contentful (repo coming soon)
@@ -18,3 +16,7 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bg-write&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bg-write)](https://github.com/KnlnKS/leetcode-stats)
