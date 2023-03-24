@@ -1,7 +1,7 @@
 
-# BRADY GERBER: Frontend, Accessibility, Music & Writing 👋
+# BRADY GERBER: Helping People Through Words & Code 👋
 
-## I’m a writer who codes: a full-stack software engineer (JavaScript, React, Python) and music journalist (New York Magazine, Pitchfork, Rolling Stone). In everything I do - in the arts, tech, or the combination of both - I strive for clarity and to turn information into storytelling. Let's build something.
+## I’m a writer who codes: a technical writer, full-stack software engineer (JavaScript, React, Python), and music journalist (New York Magazine, Pitchfork, Rolling Stone). In everything I do - in the arts, tech, or the combination of both - I strive for clarity and to turn information into storytelling. Let's build something.
 
 - 🔭 Recently launched: [A digital newspaper sharing the best music news and longform writing built with Python, Flask, and Beautiful Soup](https://github.com/bg-write/candyfloss-flask)
 - 🌱 Currently building: a new music blogging platform built with TypeScript, Gatsby, and Contentful (repo coming soon)
